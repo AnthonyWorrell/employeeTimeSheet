@@ -14,7 +14,7 @@ namespace NpEmployeeTimesheet
     
     public partial class pinChangeForm : Form
     {
-        private static string conString = @"Data Source=H01SQL2;Initial Catalog = NpEmployeeData; User ID = sa; Password=SQL*Admin1";
+        private static string conString = @"connection string here";
 
         private SqlConnection conn = new SqlConnection(conString);
         private SqlCommand cmd;
