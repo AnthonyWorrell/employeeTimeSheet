@@ -15,7 +15,7 @@ namespace NpEmployeeTimesheet
     {
         #region<class variables>
 
-        private static string conString = @"Data Source=H01SQL2;Initial Catalog = NpEmployeeData; User ID = sa; Password=SQL*Admin1";
+        private static string conString = @"connection string here";
 
         private string username;
         private string hashedPassword;
