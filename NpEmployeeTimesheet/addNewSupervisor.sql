@@ -1,0 +1,1 @@
+﻿insert into [tbl_NpSupervisors] ([SuperLastName]) values ('Good')
